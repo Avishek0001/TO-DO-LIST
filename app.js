@@ -27,7 +27,7 @@ const item2 = new Item({
   name:"Hit the ADD button for add"
 })
 const item3 = new Item({
-  name:"Hit the DELETE to delete "
+  name:"Hit the DELETE to delete"
 })
 
 defaultItems = [item1,item2,item3]

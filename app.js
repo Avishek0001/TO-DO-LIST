@@ -24,10 +24,10 @@ const item1 = new Item({
   name:"Welcome to your todo list"
 })
 const item2 = new Item({
-  name:"Hit the + button for add"
+  name:"Hit the ADD button for add"
 })
 const item3 = new Item({
-  name:"Hit the <--- to delete "
+  name:"Hit the DELETE to delete "
 })
 
 defaultItems = [item1,item2,item3]
